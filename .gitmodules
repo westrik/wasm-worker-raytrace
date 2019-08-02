@@ -1,0 +1,4 @@
+[submodule "src/rampage"]
+	path = src/rampage
+	url = https://github.com/westrik/rampage.git
+	branch = wasm
